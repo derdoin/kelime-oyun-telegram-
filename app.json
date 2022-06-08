@@ -1,0 +1,9 @@
+{
+  "name": "Anlatbakimbot",
+  "logo": "", 
+  "description": "kelime oyunu",
+  "keywords": ["", "", "telegram"],
+  "repository": "https://github.com/abdullah626/kelimebotu",
+  "stack": "container",
+  "env": {}
+}
